@@ -12,7 +12,7 @@ INLINE_VECTOR_DB_PROVIDERS = [
     "faiss",
     # TODO: add sqlite_vec to templates
     # "sqlite_vec",
-    # "milvus",
+    "milvus",
 ]
 
 
